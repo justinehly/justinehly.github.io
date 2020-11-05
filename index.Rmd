@@ -1,0 +1,11 @@
+---
+title: "Simple Website"
+author: "Justin Ehly"
+date: "11/5/2020"
+output: html_document
+---
+
+# The Simple Yet Awesome Website
+## Note: The 6 lines of text above are the YAML tags
+### We will knit the RMD to a html file next
+The push index.html to the github.io repo.
