@@ -1,0 +1,83 @@
+---
+title: "Wand Sales Exercise"
+author: "Justin Ehly"
+date: "11/5/2020"
+output: html_document
+---
+
+```{r}
+################################
+#####     Wand Exercise    #####
+################################
+
+library(dygraphs)
+library(utils)
+library(tibble)
+library(lubridate)
+library(xts)
+
+# read in Data
+greg <- read.csv(file.choose())
+olli <- read.csv(file.choose())
+
+# peek at the data
+#view(greg)
+#view(olli)
+
+# check for NAs
+sapply(greg, function(x) sum(is.na(x)))
+sapply(olli, function(x) sum(is.na(x)))
+
+
+# convert to xts, order by date column, but don't add the date column to the xts object, we will do that later
+greg <- xts(greg[,-1], order.by = as.Date(greg[,1], "%m/%d/%Y"), unique = FALSE)
+olli <- xts(olli[,-1], order.by = as.Date(olli[,1], "%m/%d/%Y"), unique = FALSE)
+
+# peek at the data
+str(greg)
+str(olli)
+
+# bind time series together
+Wands <- merge.xts(greg, olli)
+
+# Look at Wands
+str(Wands)
+#view(Wands)
+
+# Function to add annotation to the shadded region of the graph done with dyShading
+presAnnotation <- function(dygraph, x, text) {
+  dygraph %>%
+    dyAnnotation(x, text, attachAtBottom = TRUE, width = 100, height = 32)
+}
+
+# plot dygraph
+dygraph(Wands, main = "Wand Sales by Year: Gregovitch vs. Ollivander") %>%
+# Change Label names
+  dySeries("greg", label = "Gregovitch") %>%
+  dySeries("olli", label = "Ollivander") %>%
+# Change axis labels
+  dyAxis("y", label = "Wands Sold") %>%
+  dyAxis("x", label = "Years") %>%
+# Add Stackgraph option and set custom colors
+  dyOptions(includeZero = TRUE, colors = c("blue", "red"), 
+  stackedGraph = TRUE) %>%
+  dyRangeSelector() %>%
+# Add a shaded region to show when Voldemort was revived
+  dyShading(from = "1995-1-1", to = "1999-1-1", color = "orange", axis = "x") %>%
+# Add a label to the shaded region 
+  presAnnotation("1997-1-1", text = "Voldemort Revived") %>%
+# Add highlighting
+  dyHighlight(highlightCircleSize = 5,
+    highlightSeriesBackgroundAlpha = 0.2,
+    hideOnMouseOut= FALSE) %>%
+# Modify the legend
+  dyLegend(width = 400)
+
+  
+  
+
+
+
+```
+
+

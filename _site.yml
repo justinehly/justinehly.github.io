@@ -1,0 +1,9 @@
+name: "justin-ehly-data-science-showcase"
+navbar:
+  title: "Justin Ehly Data Science Showcase"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Historical Wand Sales in Diagon Alley"
+      href: Wand-Sales-in-Diagon-Alley.html
+      
