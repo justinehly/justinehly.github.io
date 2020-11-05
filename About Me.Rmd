@@ -1,0 +1,35 @@
+---
+title: "About Me"
+author: "Justin Ehly"
+date: "11/5/2020"
+output: html_document
+---
+
+# About Me!
+
+### Howdy! I am Justin Ehly and this is just a little information about me and how I got to where I am today.
+### Undergrad: University of Texas at Austin
+### Degree: Bachelor of Science in Radio-TV-Film
+### Hometown: Houston, TX
+
+### Check out my other tabs to see my work/ analyses that I have completed!
+
+### How I ended up working on a Master's in Data Science at SMU.
+I believe it was 2016 and I was working in the then nascent world of streaming cable television. I happened to have a meeting with a client at MattressFIRM in Houston and she was very interested in learning more about the space, if her customers where consuming television there and if we could possible tie ad impressions back to in-store and online sales and to foot traffic.
+Needless to say, my employer at the time was not anywhere near ready to venture into that space, but she was waving a pretty large check in front of me, so like any good sales person, I accepted the money and the challenge!
+
+The next 3-4 months ended up being very challenging because I was tasked with learning all about video ad attribution, ad serving, negotiating data contracts on behalf of my company, data tidying, data security and finally reporting.
+
+First up, I had to set up a bunch of conference calls with vendors around the country, starting with LiveRamp (since the client already had a relationship with them), then I went searching for a good foot traffic attribution partner (I favored Ninth Decimal, but she liked Placed and well, it was her money). Finally, I had to figure out how to get video ad impressions connected to the LiveRamp and Placed data machines (turns out third party ad servers are great for that - I hired Sizmek! (now part of Amazon)). 
+
+Ok, so now, I've a financial commitment from the client, my data partners are lined up and we have the "pipes" connecting ad impressions to the client's data plus a feedback loop so I could get the matched data files for processing and reporting. (somewhere in the process I also became a master ad ops person using Sizmek).
+
+Ok, we started off in May 2017 and within about 24 hours, the first psv files started coming online via SFTP where I could go in and download them somewhere. What is a psv? Well it is similar to a csv, but instead of using commas, it uses "pipes" or this symbol "|" to separate the data segments and apparently that is really good because if a date, for example gets entered with a comma that can really offset your data set. So these files were pretty big, as in 1 million lines of data each and once the psv hit 1 million lines, a new data file was created...some days we had 6 files to download, then we had to merge them into a master file and create reporting.
+
+So, I was sitting here after about a month with all this data and clueless what to do with it because it was entirely too much for excel, my database team threatened to quit if they were assigned one more database to manage and then there was the whole reporting back to the client thing. So a friend of mine suggested I take a course in PowerBI at the local Microsoft campus (I did) and then I built a stand alone machine just to deal with all this data processing and storage and got ahold of a Power BI license. I spent about 40 hours one weekend learning how to tidy data and designing my first Power BI dashboard and I was off to the races. 
+
+I spent I think about 2 years working on that piece of business both directly with the client and across several agency partners. I also got to be the corporate trailblazer that got us officially into the data game!
+
+So, here I am in the midst of a pandemic, out of work, and really missed working with data...I happened to see an ad for a Masters in Data Science at SMU on LinkedIn, applied and well here I am about to finish my first semester of graduate work!
+
+So that's how I started off on the path to be a Data Scientist!
