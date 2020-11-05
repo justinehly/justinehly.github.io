@@ -6,4 +6,5 @@ navbar:
       href: index.html
     - text: "Wand Sales Analysis"
       href: Wand-Sales-in-Diagon-Alley.html
-      
+    - text: "Wand Interactive Graphic"
+      href: Wands Graphic.html
