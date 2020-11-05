@@ -1,20 +1,18 @@
----
-title: "About Me"
-author: "Justin Ehly"
-date: "11/5/2020"
-output: html_document
----
-
 # About Me!
 
-### Howdy! I am Justin Ehly and this is just a little information about me and how I got to where I am today.
+## Justin Ehly
+
 ### Undergrad: University of Texas at Austin
+
 ### Degree: Bachelor of Science in Radio-TV-Film
+
 ### Hometown: Houston, TX
 
 ### Check out my other tabs to see my work/ analyses that I have completed!
 
 ### How I ended up working on a Master's in Data Science at SMU.
+Howdy! I am Justin Ehly and this is just a little information about me and how I got to where I am today.
+
 I believe it was 2016 and I was working in the then nascent world of streaming cable television. I happened to have a meeting with a client at MattressFIRM in Houston and she was very interested in learning more about the space, if her customers where consuming television there and if we could possible tie ad impressions back to in-store and online sales and to foot traffic.
 Needless to say, my employer at the time was not anywhere near ready to venture into that space, but she was waving a pretty large check in front of me, so like any good sales person, I accepted the money and the challenge!
 
