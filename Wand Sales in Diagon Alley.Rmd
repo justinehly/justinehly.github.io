@@ -17,8 +17,8 @@ library(lubridate)
 library(xts)
 
 # read in Data
-greg <- read.csv(file.choose())
-olli <- read.csv(file.choose())
+greg <- read.csv(file = "C:/Users/justi/Documents/GitHub/MSDS_6306_Doing-Data-Science/Unit 11/Unit11TimeSeries_Gregorovitch.csv")
+olli <- read.csv(file = "C:/Users/justi/Documents/GitHub/MSDS_6306_Doing-Data-Science/Unit 11/Unit11TimeSeries_Ollivander.csv")
 
 # peek at the data
 #view(greg)
