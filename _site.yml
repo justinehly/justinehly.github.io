@@ -4,6 +4,6 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Historical Wand Sales in Diagon Alley"
+    - text: "Historical Wand Sales in Diagon Alley Analysis"
       href: Wand-Sales-in-Diagon-Alley.html
       
