@@ -2,8 +2,6 @@ name: "justin-ehly-data-science-showcase"
 navbar:
   title: "Justin Ehly Data Science Showcase"
   left:
-    - text: "About Me"
-      href: About Me.html
     - text: "Beer Case Study"
       href: Case_Study_1_Knit.html
     - text: "Beer Case Study Presentation Video"
