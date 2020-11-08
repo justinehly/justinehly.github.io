@@ -1,0 +1,12 @@
+# **Welcome**
+
+### Welcome to my Github site!
+
+I am Justin Ehly and this is where I showcase my analysis and projects in data science.
+
+### **My projects to date:**
+- Beer Analysis
+- Harry Potter Wand Sales Interactive Graph
+
+### **Projects in the works:**
+- Housing Price Estimator for Aimes, IA
