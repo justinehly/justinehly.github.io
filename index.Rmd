@@ -1,12 +1,17 @@
-# **Welcome**
+
+# Welcome
 
 ### Welcome to my Github site!
 
 I am Justin Ehly and this is where I showcase my analysis and projects in data science.
 
+Feel free to click on the tabs at the top or refer to the projects below.
+
 ### **My projects to date:**
-- Beer Analysis
-- Harry Potter Wand Sales Interactive Graph
+- [Beer Analysis](https://justinehly.github.io/Case_Study_1_Knit.html)
+- [Beer Analysis Video Presentation](https://www.youtube.com/watch?v=_ceMtZXqPQ8&feature=youtu.be)
+- [Harry Potter Wand Sales Analysis Markdown](https://justinehly.github.io/Wand-Sales-in-Diagon-Alley.html)
+- [Harry Potter Wand Sales Interactive Graph](https://justinehly.github.io/Wands%20Graphic.html)
 
 ### **Projects in the works:**
 - Housing Price Estimator for Aimes, IA
