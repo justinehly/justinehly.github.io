@@ -1,4 +1,6 @@
 name: "justin-ehly-data-science-showcase"
+
+
 navbar:
   title: "Justin Ehly Data Science Showcase"
   left:
@@ -8,8 +10,10 @@ navbar:
       href: aboutme.html
     - text: "Beer Case Study"
       href: Case_Study_1_Knit.html
-    - text: "Beer Case Study Presentation Video"
+    - text: "Beer Case Study Video"
       href: https://youtu.be/_ceMtZXqPQ8
+    - text: "Beer Analysis App"
+      href: https://justindatascience2022.shinyapps.io/Shiny-Beer-App/?_ga=2.80532688.673731951.1604853073-107840330.1604589769
     - text: "Wand Sales Analysis"
       href: Wand-Sales-in-Diagon-Alley.html
     - text: "Wand Interactive Graphic"
