@@ -8,12 +8,16 @@ navbar:
       href: index.html
     - text: "About Me"
       href: aboutme.html
-    - text: "Beer Case Study"
+    - text: "Case Study 1: Beer Case Study"
       href: Case_Study_1_Knit.html
     - text: "Beer Case Study Video"
       href: https://youtu.be/_ceMtZXqPQ8
     - text: "Beer Analysis App"
       href: https://justindatascience2022.shinyapps.io/Shiny-Beer-App/?_ga=2.80532688.673731951.1604853073-107840330.1604589769
+    - text: "Case Study 2: DDSAnalytics"
+      href: Case-Study-2-2_Knit.html
+    - test: "Case Study 2 Video Presentation"
+      href: https://www.screencast.com/t/leqSdPsrP
     - text: "Wand Sales Analysis"
       href: Wand-Sales-in-Diagon-Alley.html
     - text: "Wand Interactive Graphic"

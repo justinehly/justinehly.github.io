@@ -14,7 +14,8 @@ Feel free to click on the tabs at the top or refer to the projects below.
 - [Beer Analysis App](https://justindatascience2022.shinyapps.io/Shiny-Beer-App/?_ga=2.80532688.673731951.1604853073-107840330.1604589769)
 - [Harry Potter Wand Sales Analysis Markdown](https://justinehly.github.io/Wand-Sales-in-Diagon-Alley.html)
 - [Harry Potter Wand Sales Interactive Graph](https://justinehly.github.io/Wands%20Graphic.html)
-
+- [DDSAnalytics Talent Management Analysis using Data Science](https://justinehly.github.io/Case-Study-2-2.html)
+- [DDSAnalytics Talent Management Analysis Video Presentation](https://www.screencast.com/t/leqSdPsrP)
 
 ### **Projects in the works:**
 - Housing Price Estimator for Aimes, IA
