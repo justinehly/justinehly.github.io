@@ -5,12 +5,14 @@
 
 ### Welcome to my Github site!
 
-### **My projects to date:**
+### **Projects:**
 ##### April 2021
 - [$50,000 Income Predictor](https://github.com/justinehly/6372---50k-Income-Predictor/blob/43d5dcc1295e784c50be2835f0829cbac52c30c8/Write%20Up/Income%20Predictor%20WriteUp%20-%20GilbertMillerEhly.pdf)
 - [Pfizer Vaccine Tweets: A Sentiment Analysis](https://github.com/justinehly/7330-Term-Project/blob/main/FinalProject7330EhlyNorelliYU.pdf)
+
 ##### February 2021
 - [Auto Price Predictor](https://github.com/justinehly/6372-Auto-Pricing-Project/blob/main/Cars%20MSRP%20Write-up.pdf)
+
 ##### August 2020 - December 2020
 - [DDSAnalytics Talent Management Analysis using Data Science](https://justinehly.github.io/Case-Study-2-2.html)
 - [DDSAnalytics Talent Management Analysis Video Presentation](https://www.screencast.com/t/leqSdPsrP)
