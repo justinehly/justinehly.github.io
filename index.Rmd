@@ -6,14 +6,14 @@
 ### Welcome to my Github site!
 
 ### **Projects:**
-##### April 2021
+###### April 2021
 - [$50,000 Income Predictor](https://github.com/justinehly/6372---50k-Income-Predictor/blob/43d5dcc1295e784c50be2835f0829cbac52c30c8/Write%20Up/Income%20Predictor%20WriteUp%20-%20GilbertMillerEhly.pdf)
 - [Pfizer Vaccine Tweets: A Sentiment Analysis](https://github.com/justinehly/7330-Term-Project/blob/main/FinalProject7330EhlyNorelliYU.pdf)
 
-##### February 2021
+###### February 2021
 - [Auto Price Predictor](https://github.com/justinehly/6372-Auto-Pricing-Project/blob/main/Cars%20MSRP%20Write-up.pdf)
 
-##### August 2020 - December 2020
+###### August 2020 - December 2020
 - [DDSAnalytics Talent Management Analysis using Data Science](https://justinehly.github.io/Case-Study-2-2.html)
 - [DDSAnalytics Talent Management Analysis Video Presentation](https://www.screencast.com/t/leqSdPsrP)
 - [Harry Potter Wand Sales Analysis Markdown](https://justinehly.github.io/Wand-Sales-in-Diagon-Alley.html)
@@ -21,5 +21,4 @@
 - [Beer Analysis App](https://justindatascience2022.shinyapps.io/Shiny-Beer-App/?_ga=2.80532688.673731951.1604853073-107840330.1604589769)
 - [Beer Analysis Video Presentation](https://www.youtube.com/watch?v=_ceMtZXqPQ8&feature=youtu.be)
 - [Beer Analysis](https://justinehly.github.io/Case_Study_1_Knit.html)
-### **Projects in the works:**
-- Income Predictor, eta 4.18.21 
+
