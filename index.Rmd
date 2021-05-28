@@ -7,7 +7,7 @@
 
 ### **Projects:**
 ###### May 2021
-- [Analysis of a The Brazilian E-Commerce Public Dataset by Olist](https://github.com/justinehly/olist/blob/6158ebc047a815b1bb0de28b96cbe6bf6d246020/Olist_Analytics_Ehly_Barrera_Olanipekun_Cheruvathoor_ML1_Th_630p.pdf)
+- [Analysis of a The Brazilian E-Commerce Public Dataset by Olist](https://github.com/justinehly/olist/blob/446a0cbde163b13b24760ac499300ae0c9a865b0/Lab1%20-%20Visualization%20and%20Data%20Processing/Olist%20-%20Lab%20One%20-Visualization%20and%20Data%20Processing.ipynb)
 
 ###### April 2021
 - [$50,000 Income Predictor](https://github.com/justinehly/6372---50k-Income-Predictor/blob/43d5dcc1295e784c50be2835f0829cbac52c30c8/Write%20Up/Income%20Predictor%20WriteUp%20-%20GilbertMillerEhly.pdf)
