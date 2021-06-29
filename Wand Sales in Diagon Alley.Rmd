@@ -5,7 +5,7 @@ date: "11/5/2020"
 output: html_document
 ---
 
-```{r}
+```{r wand exercise}
 ################################
 #####     Wand Exercise    #####
 ################################
@@ -17,8 +17,8 @@ library(lubridate)
 library(xts)
 
 # read in Data
-greg <- read.csv(file = "C:/Users/justi/Documents/GitHub/MSDS_6306_Doing-Data-Science/Unit 11/Unit11TimeSeries_Gregorovitch.csv")
-olli <- read.csv(file = "C:/Users/justi/Documents/GitHub/MSDS_6306_Doing-Data-Science/Unit 11/Unit11TimeSeries_Ollivander.csv")
+greg <- read.csv(file = "C:/Users/justi/GitHub/MSDS_6306_Doing-Data-Science/Unit 11/Unit11TimeSeries_Gregorovitch.csv")
+olli <- read.csv(file = "C:/Users/justi/GitHub/MSDS_6306_Doing-Data-Science/Unit 11/Unit11TimeSeries_Ollivander.csv")
 
 # peek at the data
 #view(greg)
