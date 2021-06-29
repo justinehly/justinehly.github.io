@@ -15,8 +15,6 @@ output: html_document
 ### **Projects:**
 ###### June 2021
 - [Classification of Olist Customer Payment Methods for Olist](https://nbviewer.jupyter.org/github/justinehly/olist/blob/main/Lab%202/Lab%202%20Notebook_Merged_Post_Submission.ipynb)
-
-###### June 2021
 - [Regression Classifier for Olist Package Delivery](https://nbviewer.jupyter.org/github/justinehly/olist/blob/main/Mini%20Lab/MiniLab_Berrera_Ehly_Cheruvathoor_Olan_630p_revised.ipynb)
 
 ###### May 2021
