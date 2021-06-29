@@ -13,7 +13,7 @@ output: html_document
 ### Welcome to my Github site!
 
 ### **Projects:**
-###### May 2021
+###### June 2021
 - [Classification of Olist Customer Payment Methods for Olist](https://nbviewer.jupyter.org/github/justinehly/olist/blob/main/Lab%202/Lab%202%20Notebook_Merged_Post_Submission.ipynb)
 
 ###### June 2021
