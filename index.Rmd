@@ -15,6 +15,7 @@ output: html_document
 ### **Projects:**
 ###### August 2021
 - [Association Rule Mining using MovieLens Dataset](https://github.com/justinehly/Lab-3/blob/72c47460a30d0d0b46d401b7863d28cff7f16c6c/Lab3-Ehly-Barrera-Olanipekun-Cheruvathoor.ipynb)
+
 ###### June 2021
 - [Classification of Olist Customer Payment Methods for Olist](https://nbviewer.jupyter.org/github/justinehly/olist/blob/main/Lab%202/Lab%202%20Notebook_Merged_Post_Submission.ipynb)
 - [Regression Classifier for Olist Package Delivery](https://nbviewer.jupyter.org/github/justinehly/olist/blob/main/Mini%20Lab/MiniLab_Berrera_Ehly_Cheruvathoor_Olan_630p_revised.ipynb)
