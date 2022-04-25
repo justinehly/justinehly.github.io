@@ -1,18 +1,44 @@
 ---
 title: "Justin Ehly's Github.io Page"
 author: "Justin Ehly"
-date: "06/29/2021"
+date: "04/25/2022"
 output: html_document
 ---
 
 ![Digital Universe](https://user-images.githubusercontent.com/69697451/98739903-ca75ec80-236f-11eb-8339-f9c837f2bf1d.jpg)
 
 
-# Welcome
-
-### Welcome to my Github site!
 
 ### **Projects:**
+###### April 2022
+- [Capstone: Government Policy and COVID‑19 Hospitalizations](https://github.com/justinehly/covid_capstone/blob/main/Python/Capstone%20B%20-%20COVID-19_Final.ipynb)
+
+###### April 2022
+- [Forecasting Daily Temperatures in New Delhi using univariate and multivariate time series analysis](https://github.com/justinehly/New-Delhi-Temperature-Forecasting/blob/main/New_Delhi_Temp_Forecasting_Ehly_Code.Rmd)
+- [Video Presentation](https://youtu.be/zMKD_C_ur2o)
+
+###### November 2021
+- [Visual Group Theory Presentation](https://youtu.be/hzn2G5lUZ5Q)
+
+###### November 2021
+- [New Particle Detection using a Neural Network](https://github.com/justinehly/Particle-Discovery-using-NN)
+
+###### November 2021
+- [Letter Identification using Transfer Learning via a Convolutional Neural Network using Tensorflow and Keras](https://github.com/justinehly/Transfer-Learning-with-Hand-Written-Letters)
+
+###### October 2021
+- [Firewall Traffic Filter with SVM and SGD](https://github.com/justinehly/Firewall-Traffic-Detector---SVM-SGD)
+
+###### September 2021
+- [Where To Go For Lunch using matrix manipulations, PCA and K-means clustering](https://github.com/justinehly/Where-to-go-for-lunch)
+
+###### September 2021
+- [Predict Corporate Bankruptcy Likelihood Using Random Forest and XGBoost](https://github.com/justinehly/Predict-Corp-Bankruptcy)
+
+###### September 2021
+- [Email Spam Classifier Using Naive Bayes and Clustering Methods](https://github.com/justinehly/Email-Spam-Classifier)
+
+
 ###### August 2021
 - [Association Rule Mining using MovieLens Dataset](https://github.com/justinehly/Lab-3/blob/72c47460a30d0d0b46d401b7863d28cff7f16c6c/Lab3-Ehly-Barrera-Olanipekun-Cheruvathoor.ipynb)
 
