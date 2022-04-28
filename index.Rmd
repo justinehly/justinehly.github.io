@@ -12,18 +12,12 @@ output: html_document
 ### **Projects:**
 ###### April 2022
 - [Capstone: Government Policy and COVID‑19 Hospitalizations](https://github.com/justinehly/covid_capstone/blob/main/Python/Capstone%20B%20-%20COVID-19_Final.ipynb)
-
-###### April 2022
 - [Forecasting Daily Temperatures in New Delhi using univariate and multivariate time series analysis](https://github.com/justinehly/New-Delhi-Temperature-Forecasting/blob/main/New_Delhi_Temp_Forecasting_Ehly_Code.Rmd)
 - [Video Presentation](https://youtu.be/zMKD_C_ur2o)
 
 ###### November 2021
 - [Visual Group Theory Presentation](https://youtu.be/hzn2G5lUZ5Q)
-
-###### November 2021
 - [New Particle Detection using a Neural Network](https://github.com/justinehly/Particle-Discovery-using-NN)
-
-###### November 2021
 - [Letter Identification using Transfer Learning via a Convolutional Neural Network using Tensorflow and Keras](https://github.com/justinehly/Transfer-Learning-with-Hand-Written-Letters)
 
 ###### October 2021
@@ -31,11 +25,7 @@ output: html_document
 
 ###### September 2021
 - [Where To Go For Lunch using matrix manipulations, PCA and K-means clustering](https://github.com/justinehly/Where-to-go-for-lunch)
-
-###### September 2021
 - [Predict Corporate Bankruptcy Likelihood Using Random Forest and XGBoost](https://github.com/justinehly/Predict-Corp-Bankruptcy)
-
-###### September 2021
 - [Email Spam Classifier Using Naive Bayes and Clustering Methods](https://github.com/justinehly/Email-Spam-Classifier)
 
 
