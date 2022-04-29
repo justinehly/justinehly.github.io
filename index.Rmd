@@ -14,6 +14,18 @@ output: html_document
 - [Capstone: Government Policy and COVID‑19 Hospitalizations](https://github.com/justinehly/covid_capstone/blob/main/Python/Capstone%20B%20-%20COVID-19_Final.ipynb)
 - [Forecasting Daily Temperatures in New Delhi using univariate and multivariate time series analysis](https://github.com/justinehly/New-Delhi-Temperature-Forecasting/blob/main/New_Delhi_Temp_Forecasting_Ehly_Code.Rmd)
 - [Video Presentation](https://youtu.be/zMKD_C_ur2o)
+- [NLP-IMDB Movie Reviews Sentiment Analysis](https://github.com/justinehly/NLP-IMDB-Movie-Reviews-Sentiment-Analysis)
+
+###### March 2022
+- [NLP-Clustering Movies Based on IMDB Reviews](https://github.com/justinehly/NLP-Clustering-Movies-Based-on-IMDB-Reviews)
+- [NLP-Text Similarity Using Amazon Book Titles](https://github.com/justinehly/NLP-Text-Similarity-Using-Amazon-Book-Titles)
+- [NLP-IMDB Web Scraping For Movie Links, Titles, Talent and Reviews](https://github.com/justinehly/NLP-IMDB-Web-Scraping)
+
+###### February 2022
+- [NLP-Part of Speech Tagging](https://github.com/justinehly/NLP-POS-Tagging)
+
+###### January 2022
+- [NLP-Lexical Diversity Amonth Elementary English Texts](https://github.com/justinehly/NLP-Lexical-Diversity-Among-Elementary-English-Books)
 
 ###### November 2021
 - [Visual Group Theory Presentation](https://youtu.be/hzn2G5lUZ5Q)
